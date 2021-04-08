@@ -1,0 +1,38 @@
+Git Commands
+
+1. $ git init : initialise git.
+
+2. ls -a : To view list of directories.
+
+3. pwd : present working directory
+
+4. $ git status : To check status of the files
+
+5. $ git add 
+   1. git add . : addes all the files
+   2. git add * : addes all the files
+   3. git add --all : addes all the files
+   4. git add -A : addes all the files
+   5. git add index.html : to add single file
+
+6. mkdir : to create a folder
+
+7. $ git commit -m "any msg" : to commit the changes.
+
+8. $ git config --global user.name "username"
+
+9. $ git config --global user.email "email"
+
+10. $ git config --list
+
+11. $ git log : shows all the commits
+
+12. $ git remote add origin https::...
+
+13. $ git remote
+
+14. $ git push origin master
+
+15. $ git pull origin master
+
+16. $ git clone
