@@ -1,5 +1,6 @@
 # Cse_Github
 
+# Different text sizes 
 # Sree Sayi Hrudai
 ## Sree Sayi Hrudai
 ### Sree Sayi Hrudai
@@ -27,15 +28,18 @@ A. C is a basic programming
 
 B.Java is a programming language
 
+# GIF
+
 <img src = "https://media.giphy.com/media/egRz9DXVQTuN2/source.gif">
 
 # Website link
 
-[Vignan college] (http://vignaniit.edu.in/)
+[Vignan college]("http://vignaniit.edu.in/")
 
 # Tables
 
 | Name | Email | Mobile | Profession | Location |
 |-----|-----|-----|-----|-----|
-| Sree Sayi Hrudai | hrudai2002@gmail.com | 6304449114 | Student | Visakhapatnam |
+| Sree Sayi Hrudai | hrudai2002@gmail.com | 6305549114 | Student | Visakhapatnam |
+| John | john2002@gmail.com | 9848608180 | Student | Visakhapatnam |
 
