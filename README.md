@@ -34,7 +34,7 @@ B.Java is a programming language
 
 # Website link
 
-[Vignan college]("http://vignaniit.edu.in/")
+[Vignan college](http://vignaniit.edu.in/)
 
 # Tables
 
